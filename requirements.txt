@@ -1,4 +1,4 @@
-scrapy==0.25.0
+scrapy==1.8.1
 requests==2.4.3
 mongodb
 selenium==2.52.0
